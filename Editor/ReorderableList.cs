@@ -1919,7 +1919,7 @@ namespace Malee.List {
 				preButtonStretch.fixedHeight = 0;
 				preButtonStretch.stretchHeight = true;
 
-				expandButton = EditorGUIUtility.IconContent("winbtn_win_max");
+				expandButton = EditorGUIUtility.IconContent("winbtn_win_rest");
 				expandButton.tooltip = "Expand All Elements";
 
 				collapseButton = EditorGUIUtility.IconContent("winbtn_win_min");
